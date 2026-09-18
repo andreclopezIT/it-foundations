@@ -10,9 +10,9 @@ It serves as a centralized knowledge base and lab journal that I can reference t
 ### CompTIA A+ (Active)
 Foundational systems, hardware, Windows administration, and troubleshooting.
 
-- 📘 [A+ Overview](./aplus/)
-- 📝 [A+ Notes](./aplus/notes/)
-- 🧪 [A+ Labs](./aplus/labs/)
+- 📘 [A+ Overview](./a+/)
+- 📝 [A+ Notes](./a+/notes/)
+- 🧪 [A+ Labs](./a+/labs/)
 
 ---
 
@@ -20,8 +20,8 @@ Foundational systems, hardware, Windows administration, and troubleshooting.
 Networking fundamentals and connectivity troubleshooting.  
 _(Folder created for future study.)_
 
-- 🌐 [Network+ Overview](./networkplus/)
-- 🧪 [Network+ Labs](./networkplus/labs/)
+- 🌐 [Network+ Overview](./network+/)
+- 🧪 [Network+ Labs](./network+/labs/)
 
 ---
 
@@ -29,8 +29,8 @@ _(Folder created for future study.)_
 System hardening, access control, and security fundamentals.  
 _(Folder created for future study.)_
 
-- 🔐 [Security+ Overview](./securityplus/)
-- 🧪 [Security+ Labs](./securityplus/labs/)
+- 🔐 [Security+ Overview](./security+/)
+- 🧪 [Security+ Labs](./security+/labs/)
 
 ---
 
@@ -43,12 +43,12 @@ Standard formats used across all labs and troubleshooting exercises.
 
 ---
 
-## 📖 Reference
+## 📖 References
 
 General reference material used across certifications.
 
-- 📚 [Glossary](./reference/glossary.md)
-- ⌨️ [Common Commands](./reference/common-commands.md)
+- 📚 [Glossary](./references/glossary.md)
+- ⌨️ [Common Commands](./references/common-commands.md)
 
 ---
 
