@@ -4,6 +4,7 @@ This repository documents my long-term learning and hands-on practice in IT fund
 It serves as a centralized knowledge base and lab journal that I can reference throughout my career.
 
 ---
+# ⚙️Projects [Here](./projects/)
 
 ## 📚 Certification Tracks
 
